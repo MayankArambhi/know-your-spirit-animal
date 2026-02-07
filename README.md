@@ -8,6 +8,7 @@ with sounds, chaos, and consequences 😈
 - Sound effects
 - Interactive choices
 - Evil Larry™ system
+- Banana Cat appears after 11PM or after atleast 6 hours
 
 ## Requirements
 - Python 3.x
